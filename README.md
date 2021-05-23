@@ -1,5 +1,5 @@
 #SCRAME-Application
-CZ2002-SCRAME-Application
+SCRAME-Application
 SCRAME is a java non-GUI application for handling course registration and student records.
 
 Usage
